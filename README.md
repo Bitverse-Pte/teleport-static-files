@@ -9,4 +9,4 @@ CDN address： https://static-files.teleport.network/ 对应 repo的根目录
 
 支持重定向请求到默认文件名比如
 
-https://static-files.teleport.network/pravicy-policy/ --> pravicy-policy/index.html
+https://static-files.teleport.network/privacy-policy/ --> privacy-policy/index.html
